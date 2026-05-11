@@ -1,7 +1,5 @@
 # Méliuz — Case Técnico Product Manager Pleno
 
-Este repositório contém minha resolução para o case técnico da vaga de **Product Manager Pleno** da Méliuz.
-
 O objetivo do case foi analisar um experimento relacionado ao **In-App Browser** da plataforma, identificar os principais aprendizados do teste e propor a próxima evolução do produto com visão orientada a negócio, experimentação e experiência do usuário.
 
 A entrega foi estruturada em:
