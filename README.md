@@ -150,4 +150,4 @@ A proposta foi tratar o case de forma próxima ao contexto real de operação de
 
 # Observação
 
-Conforme solicitado no enunciado do case, este repositório foi mantido privado.
+Conforme solicitado nas instruções do case, o repositório contém apenas os materiais produzidos por mim durante a resolução da atividade. Os arquivos disponibilizados pela Méliuz, como datasets, enunciado e materiais do Figma, não foram incluídos ou compartilhados neste repositório ou por outros meios.
