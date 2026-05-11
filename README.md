@@ -1,4 +1,4 @@
-# Méliuz — Case Técnico Product Manager Pleno
+# Méliuz — Case Técnico
 
 O objetivo do case foi analisar um experimento relacionado ao **In-App Browser** da plataforma, identificar os principais aprendizados do teste e propor a próxima evolução do produto com visão orientada a negócio, experimentação e experiência do usuário.
 
